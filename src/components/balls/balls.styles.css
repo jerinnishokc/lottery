@@ -1,0 +1,13 @@
+.ball {
+    width:75px;
+    height:75px;
+    /* border: 1px solid white; */
+    background-color: tomato;
+    border-radius: 50%;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: 700;
+    font-size: xx-large;
+}
